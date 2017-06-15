@@ -1,2 +1,2 @@
 # TestGithub
-test github repository
+Testing github basics...etc.etc
